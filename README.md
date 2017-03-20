@@ -1,2 +1,5 @@
 # hello-world
-Hello everyone! happyam here. I like to do front end development using html, css, javascript. 
+Hello everyone! 
+happyam here. I like to work on front end development technologies using html, css, javascript.
+Keep learning! Keep coding !
+Have a nice time!!
